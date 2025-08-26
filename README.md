@@ -57,6 +57,3 @@ At the end, any state pairs that remain unmarked are considered equivalent:
 
 These equivalent pairs are then printed as the output.
 
-## Results
-![Resultados](results.jpeg)
-
